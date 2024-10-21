@@ -5,8 +5,8 @@ I'm CS student at University of Ghana. I love working with Rust, JavaScript, and
 
 - 🔭 Currently working on: A cross-platform app using **Tauri** and **ReactJS**
 - 🌱 Learning: Deep Reeinforcement Learning Algorithms
-- 💬 Ask me about: Web development, systems programming, and cross-platform apps
-- 📫 How to reach me: nisaacdz@gmail.com
+- 💬 Ask me about: Web development, systems programming, and cross-platform apps,Rust programming language
+- 📫 How to reach me: email nisaacdz@gmail.com
 - ⚡ Fun fact: I can write a Rust program faster than I can cook dinner! 😄
 
 ## My Skills & Tools
@@ -29,7 +29,7 @@ I'm CS student at University of Ghana. I love working with Rust, JavaScript, and
 Here are a few of my recent works:
 - [Tauri Cross-Platform App](https://github.com/nisaacdz/bloxel) - A digital chalkboard desktop app built using Tauri, ReactJS, and HTML Canvas API.
 - [Windows File explorer](https://github.com/nisaacdz/pitou) - A windows file explorer built with Yew.rs, Tauri, and Rust backend.
-- [Rust Library](https://github.com/nisaacdz/b_trees) - Implementations for AVL tree, Red-Black tree, and other binary search trees.
+- [Rust Library](https://github.com/nisaacdz/b_trees) - Implementations for AVL tree, Red-Black tree, and other binary trees.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisaacdz&show_icons=true&theme=radical)
