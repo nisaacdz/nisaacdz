@@ -17,10 +17,11 @@ I'm a relentlessly curious CS student at the University of Ghana, crafting softw
 ## 🛠️ Tech Toolbox
 
 ### **Languages**
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 
 ### **Frontend Circus**
