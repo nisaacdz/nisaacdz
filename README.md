@@ -5,24 +5,23 @@
 ## About Me
 I'm a relentlessly curious CS student at the University of Ghana, crafting software solutions with an amazing level of focus.  When I'm not busy writing bug-free code:
 
-- 🛠️ Building: Web or Native apps with **Express**, **NextJS**, **Tauri**, etc. (I don't learn frameworks, I just use them.)
-- ✏️ Designing: Thinking about most logical combination of components that will make software development easy.
+- 🛠️ Building: Web or Native apps with **Express**, **Hono**, **Remix**, **NextJS**, **Tauri**, **etc**. (I don't learn frameworks, I just use them 😔)
+- ✏️ Designing: Thinking about how to turn great ideas into great software.
 - 🤖 Learning: Rather, teaching machines to learn better than you guys.
-- � Debugging: JavaScript is just so messy (Even Typescript can't help it 😔)
+- � Debugging: JavaScript is just so messy (Even Typescript doesn't help 😔)
 
 **Interested in:** Software Engineering and Design, Quantitative Trading, A lot of Money 🤑
 
 **Fun fact:** I can't help but see errors in everyone's codes 🤷. But occasionally, I meet people who are a little good.
 
-
 ## 🛠️ Tech Toolbox
 
 ### **Languages**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 
 ### **Frontend Circus**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
@@ -50,13 +49,13 @@ I'm a relentlessly curious CS student at the University of Ghana, crafting softw
 **Ask me about:**
 - How to go about your project
 - The undeniable superiority of Rust
-- Desktop apps that are lean, mean, and don't hog your memory
 - How my code works
+- DSA and competitive programming
 
 **Let's collab on:**
-- Web applications of any kind ( I am the one to call )
+- Software development
 - Your startup idea
-- Solving Africa's biggest problems
+- Solving the world's biggest problems
 
 ## 🏗️ Recent Creations
 - [**Bloxel**](https://github.com/nisaacdz/bloxel):  A digital chalkboard app built with Tauri and Canvas API.
