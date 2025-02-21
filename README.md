@@ -1,47 +1,79 @@
-# Hi there, I'm nisaacdz 👋
+# Greetings, I am Isaac Dzikum 👑💻
+
+🚀 *Turning late-night thoughts into code since 2020* 🚀
 
 ## About Me
-I'm a CS student at the University of Ghana. I love working with Rust, JavaScript, and Python, and I'm passionate about building high-performance web apps and desktop applications.
+I'm a relentlessly curious CS student at the University of Ghana, crafting software solutions with an amazing level of focus.  When I'm not busy writing bug-free code:
 
-- 🔭 Currently working on: A cross-platform app using **Tauri** and **ReactJS**
-- 🌱 Learning: Deep Reinforcement Learning Algorithms
-- 💬 Ask me about: Web development, systems programming, and cross-platform apps, Rust programming language
-- 📫 How to reach me: email nisaacdz@gmail.com
-- ⚡ Fun fact: I can write a Rust program faster than I can cook dinner! 😄
+- 🛠️ Building: Web or Native apps with **Express**, **NextJS**, **Tauri**, etc. (I don't learn frameworks, I just use them.)
+- ✏️ Designing: Thinking about most logical combination of components that will make software development easy.
+- 🤖 Learning: Rather, teaching machines to learn better than you guys.
+- � Debugging: JavaScript is just so messy (Even Typescript can't help it 😔)
 
-## My Skills & Tools
-- **Programming Languages**: 
-  ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) 
-  ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) 
-  ![Java](https://img.shields.io/badge/-Java-red?logo=java) 
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+**Interested in:** Software Engineering and Design, Quantitative Trading, A lot of Money 🤑
 
-- **Tools & Frameworks**: 
-  ![Tauri](https://img.shields.io/badge/-Tauri-grey?logo=tauri) 
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js) 
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react) 
-  ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust)
-  ![SQLite](https://img.shields.io/badge/-SQLite-lightblue?logo=sqlite)
-  ![Remix](https://img.shields.io/badge/-Remix-blue?logo=remix) 
-  ![Turbo](https://img.shields.io/badge/-Turbo-orange?logo=turborepo) 
-  ![Axum](https://img.shields.io/badge/-Axum-purple?logo=rust)
-  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-  ![Wasm](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white)
+**Fun fact:** I can't help but see errors in everyone's codes 🤷. But occasionally, I meet people who are a little good.
 
-- **Expertise**:
-  - Low level programming: ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-  - Desktop app development: ![Tauri](https://img.shields.io/badge/-Tauri-grey?logo=tauri) ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust) ![Java](https://img.shields.io/badge/-Java-red?logo=java)
-  - Frontend Development: ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js) ![Remix](https://img.shields.io/badge/-Remix-blue?logo=remix) ![Wasm](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white)
-  - Backend Development: ![Axum](https://img.shields.io/badge/-Axum-purple?logo=rust) ![SQLite](https://img.shields.io/badge/-SQLite-lightblue?logo=sqlite) ![Turbo](https://img.shields.io/badge/-Turbo-orange?logo=turborepo)
 
-## Projects
-Here are a few of my recent works:
-- [Tauri Cross-Platform App](https://github.com/nisaacdz/bloxel) - A digital chalkboard desktop app built using Tauri, ReactJS, and HTML Canvas API.
-- [Windows File explorer](https://github.com/nisaacdz/pitou) - A windows file explorer built with Yew.rs, Tauri, and Rust backend.
-- [Rust Library](https://github.com/nisaacdz/b_trees) - Implementations for AVL tree, Red-Black tree, and other binary trees.
+## 🛠️ Tech Toolbox
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisaacdz&show_icons=true&theme=radical)
+### **Languages**
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+
+### **Frontend Circus**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css)
+
+### **Backend Jungle**
+![Axum](https://img.shields.io/badge/-Axum-FF1B2D?logo=rust)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express)
+![Hono](https://img.shields.io/badge/-Hono-FF4F64?logo=hono)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=websocket)
+
+### **Database Dungeon**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+
+### **Other Toys**
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri)
+![WebAssembly](https://img.shields.io/badge/-Wasm-654FF0?logo=webassembly)
+![Turbo](https://img.shields.io/badge/-Turbo-FF0000?logo=turborepo)
+
+## 💡 Knowledge Exchange
+**Ask me about:**
+- How to go about your project
+- The undeniable superiority of Rust
+- Desktop apps that are lean, mean, and don't hog your memory
+- How my code works
+
+**Let's collab on:**
+- Web applications of any kind ( I am the one to call )
+- Your startup idea
+- Solving Africa's biggest problems
+
+## 🏗️ Recent Creations
+- [**Bloxel**](https://github.com/nisaacdz/bloxel):  A digital chalkboard app built with Tauri and Canvas API.
+- [**Pitou**](https://github.com/nisaacdz/pitou): A Windows Explorer clone but with 200% more Rust!
+- [**b_trees**](https://github.com/nisaacdz/b_trees):  A curated collection of binary trees (AVL, Red-Black, and the whole family).
+
+## 📈 GitHub Stats
+![nisaacdz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisaacdz&show_icons=true&theme=radical&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nisaacdz&theme=radical)
+
+## 📬 Let's Connect
+- 💌 **Email:** [nisaacdz@gmail.com](mailto:nisaacdz@gmail.com)
+- 🐦 **Twitter:** [@nisaacdz](https://twitter.com/nisaacdz) (May spontaneously tweet in Rust)
+- 💼 **LinkedIn:** [For professional networking and/or serious inquiries](https://linkedin.com/in/nisaacdz)
+
+*"Good code is its own best documentation."*
+--- nisaacdz
