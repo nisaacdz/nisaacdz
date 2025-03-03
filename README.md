@@ -3,12 +3,11 @@
 🚀 *Turning late-night thoughts into code since 2020* 🚀
 
 ## About Me
-I'm a relentlessly curious CS student at the University of Ghana, crafting software solutions with an amazing level of focus.  When I'm not busy writing bug-free code:
+I'm a relentlessly curious CS student at the University of Ghana, crafting software solutions with an amazing level of focus.  When I'm not busy writing bug-free sofware, you'd find me:
 
-- 🛠️ Building: Web or Native apps with **Express**, **Hono**, **Remix**, **NextJS**, **Tauri**, **etc**. (I don't learn frameworks, I just use them 😔)
+- 🛠️ Building: Still writing bug-fee Web or Native apps with **Express**, **Hono**, **Remix**, **NextJS**, **Tauri**, **etc**. (I don't learn frameworks, I just use them 😔)
 - ✏️ Designing: Thinking about how to turn great ideas into great software.
-- 🤖 Learning: Rather, teaching machines to learn better than you guys.
-- � Debugging: JavaScript is just so messy (Even Typescript doesn't help 😔)
+- 🤖 Learning: Mastering a difficult skills efforlessly (too many to list on this small page 😔)
 
 **Interested in:** Software Engineering and Design, Quantitative Trading, A lot of Money 🤑
 
