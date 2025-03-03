@@ -7,7 +7,7 @@ I'm a relentlessly curious CS student at the University of Ghana, crafting softw
 
 - 🛠️ Building: Still writing bug-fee Web or Native apps with **Express**, **Hono**, **Remix**, **NextJS**, **Tauri**, **etc**. (I don't learn frameworks, I just use them 😔)
 - ✏️ Designing: Thinking about how to turn great ideas into great software.
-- 🤖 Learning: Mastering a difficult skills efforlessly (too many to list on this small page 😔)
+- 🤖 Learning: Mastering a thousand difficult skills efforlessly (too many to list on this small page 😔)
 
 **Interested in:** Software Engineering and Design, Quantitative Trading, A lot of Money 🤑
 
