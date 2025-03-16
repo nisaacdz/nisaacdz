@@ -74,5 +74,5 @@ I'm a relentlessly curious CS student at the University of Ghana, crafting softw
 - 🐦 **Twitter:** [@nisaacdz](https://twitter.com/nisaacdz) (May spontaneously tweet in Rust)
 - 💼 **LinkedIn:** [For professional networking and/or serious inquiries](https://linkedin.com/in/nisaacdz)
 
-*"Good code is its own best documentation."*
+*"Don't let this profile fool you, I'm a whole lot better than words can express"*
 --- nisaacdz
