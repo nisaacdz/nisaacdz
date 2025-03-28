@@ -3,9 +3,9 @@
 🚀 *Just your friendly neighborhood programmer* 🚀
 
 ## ALL About Me
-I program for fun and occasionally to impress my girlfriend:
 
-- Too tired to think list them
+- I program for fun and occasionally to impress my girlfriend:
+- .
 
 **Let's collab on:**
 - Your startup idea
@@ -23,6 +23,3 @@ I program for fun and occasionally to impress my girlfriend:
 - 💌 **Email:** [nisaacdz@gmail.com](mailto:nisaacdz@gmail.com)
 - 🐦 **Twitter:** [@nisaacdz](https://twitter.com/nisaacdz) (404 LOL)
 - 💼 **LinkedIn:** [For professional networking and/or serious inquiries](https://linkedin.com/in/nisaacdz) (404 LOL)
-
-*"Don't let this profile fool you, I'm a whole lot better than words can express"*
---- nisaacdz
