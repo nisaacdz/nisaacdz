@@ -4,7 +4,8 @@
 
 ## ALL About Me
 
-- I program for fun and occasionally to impress my girlfriend.
+- I program for fun
+- I primarily use Rust, Typescript, Python
   
 **Let's collab on:**
 - Your startup idea
@@ -12,11 +13,7 @@
 - Got any random thing worth programming?
 
 ## 📈 GitHub Stats
-![nisaacdz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisaacdz&show_icons=true&theme=radical&hide_title=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nisaacdz&theme=radical)
 
 ## 📬 Let's Connect
 - 💌 **Email:** [nisaacdz@gmail.com](mailto:nisaacdz@gmail.com)
