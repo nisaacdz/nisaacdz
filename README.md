@@ -5,7 +5,7 @@
 ## ALL About Me
 
 - I program for fun
-- I primarily use Rust, Typescript, Python
+- I primarily use Rust, Typescript, Python, and C++ (for codeforces)
   
 **Let's collab on:**
 - Your startup idea
