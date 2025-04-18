@@ -1,4 +1,4 @@
-# Greetings, I am Isaac Dzikum 👑💻
+# Greetings, I am Isaac Dzikum
 
 🚀 *Just your friendly neighborhood programmer* 🚀
 
