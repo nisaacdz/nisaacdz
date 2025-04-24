@@ -1,11 +1,11 @@
-# Greetings, I am Isaac Dzikum
+# I am Isaac Dzikum
 
 🚀 *Just your friendly neighborhood programmer* 🚀
 
-## ALL About Me
+## About Me
 
 - I program for fun
-- I primarily use Rust, Typescript, Python, and C++ (for codeforces)
+- I primarily use Rust, Typescript, Python3
   
 **Let's collab on:**
 - Your startup idea
