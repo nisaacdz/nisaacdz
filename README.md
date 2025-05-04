@@ -5,12 +5,11 @@
 ## About Me
 
 - I program for fun
-- I primarily use Rust, Typescript, Python3
+- I use any language or tools that the task requires
   
 **Let's collab on:**
-- Your startup idea
 - Solving the world's biggest problems
-- Got any random thing worth programming?
+- Building game-changing softwares
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
