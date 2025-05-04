@@ -3,13 +3,17 @@
 🚀 *Just your friendly neighborhood programmer* 🚀
 
 ## About Me
+- I program for fun.
+- I use any language or tools that the task requires.
 
-- I program for fun
-- I use any language or tools that the task requires
+## Interests
+- Software Architecture & Scalable System Design
+- Software Engineering & Systems Programming
+- Computational Science & Engineering & Adaptive Algorithms
   
 **Let's collab on:**
 - Solving the world's biggest problems
-- Building game-changing softwares
+- Building game-changing softwares solutions
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
