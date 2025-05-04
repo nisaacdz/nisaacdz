@@ -9,7 +9,7 @@
 ## Interests
 - Software Architecture & Scalable System Design
 - Software Engineering & Systems Programming
-- Computational Science & Engineering & Adaptive Algorithms
+- Computational Science and Engineering & Adaptive Algorithms
   
 **Let's collab on:**
 - Solving the world's biggest problems
