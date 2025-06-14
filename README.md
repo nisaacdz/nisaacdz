@@ -4,7 +4,7 @@
 
 ## About Me
 - I program for fun.
-- I use any language or tools that the task requires.
+- I love API design.
 
 ## Interests
 - Software Architecture & Scalable System Design
