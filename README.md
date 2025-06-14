@@ -7,9 +7,9 @@
 - I love API design.
 
 ## Interests
-- Software Architecture & Scalable System Design
-- Software Engineering & Systems Programming
-- Computational Science and Engineering & Adaptive Algorithms
+- Software / API / System Design
+- Competitive Programming
+- Building things from scratch
   
 **Let's collab on:**
 - Solving the world's biggest problems
