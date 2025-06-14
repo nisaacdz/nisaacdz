@@ -10,10 +10,6 @@
 - Software / API / System Design
 - Competitive Programming
 - Building things from scratch
-  
-**Let's collab on:**
-- Solving the world's biggest problems
-- Building game-changing softwares solutions
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
