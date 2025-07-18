@@ -1,14 +1,9 @@
-# I am Isaac Dzikum
+# I am Isaac Newton Dzikum
 
 🚀 *Just your friendly neighborhood programmer* 🚀
 
-## About Me
-- I program for fun.
-- I love API design.
-
-## Interests
-- Software / API / System Design
-- Competitive Programming
+## Things I like
+- Software Arhitecture
 - Building things from scratch
 
 ## 📈 GitHub Stats
