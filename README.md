@@ -7,7 +7,7 @@
 - Building things from scratch
 
 ## Interests
-- Palantir Internship
+- Impactful SWE Internship
 - Open Source
 
 ## 📈 GitHub Stats
