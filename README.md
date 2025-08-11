@@ -6,6 +6,10 @@
 - Software Arhitecture
 - Building things from scratch
 
+## Interests
+- Palantir Internship
+- Open Source
+
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
 
