@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/selfie101.png" alt="A photo of Isaac Newton Dzikum" width="360"/>
+</p>
+
 # I am Isaac Newton Dzikum
 
 🚀 *Just your friendly neighborhood programmer* 🚀
