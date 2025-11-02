@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="./public/selfie101.png" alt="A photo of IND" width="360"/>
-</p>
-
 # I am Isaac Newton Dzikum
 
 🚀 *Just your friendly neighborhood programmer* 🚀
 
 ## Things I like
 - Software Arhitecture
-- Building things from scratch
-
-## Interests
-- Impactful SWE Internship
-- Open Source
+- Systems Programming
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisaacdz&layout=compact&theme=radical)
