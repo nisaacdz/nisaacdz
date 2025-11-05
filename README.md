@@ -1,6 +1,6 @@
 # I am Isaac Newton Dzikum
 
-🚀 * Future Codeforces grandmaster * 🚀
+🚀 *Future Codeforces grandmaster* 🚀
 
 ## Things I like
 - Software Architecture
