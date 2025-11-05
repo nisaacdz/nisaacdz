@@ -3,7 +3,7 @@
 🚀 *Just your friendly neighborhood programmer* 🚀
 
 ## Things I like
-- Software Arhitecture
+- Software Architecture
 - Systems Programming
 
 ## 📈 GitHub Stats
